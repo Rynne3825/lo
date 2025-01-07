@@ -1,0 +1,10 @@
+🇻🇳Sever Thủ Đô🇻🇳 = Vmess,vpn.4gquocte.com,80,auto,"97f4fd15-c564-44fb-81a0-ce0c158fd10d",transport=ws,alterId=0,path=/4gquocte,host=v9.tiktokcdn.com,udp=true,over-tls=false
+🇻🇳Sever Thủ Đô 2🇻🇳 = Trojan,vpn.4gquocte.com,443,"97f4fd15-c564-44fb-81a0-ce0c158fd10d",transport=tcp,sni=v9.tiktokcdn.com,skip-cert-verify=true,udp=true
+🇻🇳Máy Chủ Miền Bắc 1🇻🇳 = Vmess,vpn.4gquocte.com,80,auto,"97f4fd15-c564-44fb-81a0-ce0c158fd10d",transport=ws,alterId=0,path=/4gquocte,host=v9.tiktokcdn.com,udp=true,over-tls=false
+🇻🇳Máy Chủ Hà Nội 1🇻🇳 = Vmess,vpn.4gquocte.com,80,auto,"97f4fd15-c564-44fb-81a0-ce0c158fd10d",transport=ws,alterId=0,path=/4gquocte,host=v9.tiktokcdn.com,udp=true,over-tls=false
+🇻🇳Máy Chủ Hà Nội 2🇻🇳 = Trojan,vpn.4gquocte.com,443,"97f4fd15-c564-44fb-81a0-ce0c158fd10d",transport=tcp,sni=v9.tiktokcdn.com,skip-cert-verify=true,udp=true
+🇻🇳Máy Chủ Hà Nội 3🇻🇳 = Trojan,vpn.4gquocte.com,443,"97f4fd15-c564-44fb-81a0-ce0c158fd10d",transport=tcp,sni=v9.tiktokcdn.com,skip-cert-verify=true,udp=true
+🇻🇳Máy Chủ Hà Nội 4🇻🇳 = Vmess,vpn.4gquocte.com,80,auto,"97f4fd15-c564-44fb-81a0-ce0c158fd10d",transport=ws,alterId=0,path=/4gquocte,host=v9.tiktokcdn.com,udp=true,over-tls=false
+🇻🇳Máy Chủ Hà Nội 5🇻🇳 = Vmess,vpn.4gquocte.com,80,auto,"97f4fd15-c564-44fb-81a0-ce0c158fd10d",transport=ws,alterId=0,path=/4gquocte,host=v9.tiktokcdn.com,udp=true,over-tls=false
+🇻🇳Free🇻🇳1 = Vmess,vpn.4gquocte.com,80,auto,"97f4fd15-c564-44fb-81a0-ce0c158fd10d",transport=ws,alterId=0,path=/4gquocte,host=v9.tiktokcdn.com,udp=true,over-tls=false
+🇻🇳Free🇻🇳2 = Trojan,vpn.4gquocte.com,443,"97f4fd15-c564-44fb-81a0-ce0c158fd10d",transport=tcp,sni=v9.tiktokcdn.com,skip-cert-verify=true,udp=true
