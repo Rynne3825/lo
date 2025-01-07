@@ -1,9 +1,9 @@
-TLS 🇻🇳VĩnhViễn 🫠= VLESS,nothing.zakshin.io.vn,443,"bd2ec2f1-75fe-4dd0-851d-8bd954478727",transport=tcp,udp=true,over-tls=true,sni=neko.tiktok.com,skip-cert-verify=true
-TLS 🇻🇳VĩnhViễn 🫠= VLESS,4gviettel.duckdns.org,443,"ede2f91b-83b1-47e6-99aa-1b231ae7e392",transport=tcp,udp=true,over-tls=false
-TLS 🇻🇳VĩnhViễn 🫠= Trojan,utm.loadingip.com,443,"12cb756a-de43-4bb9-b182-21fa63ed35f8",transport=tcp,sni=neko.tiktok.com,skip-cert-verify=true,path=/,udp=true
-TLS 🇻🇳VĩnhViễn 🫠= VLESS,nothing.zakshin.io.vn,443,"852989de-5bbe-48b5-9e1d-7e6490661221",transport=tcp,udp=true,over-tls=true,sni=neko.tiktok.com,skip-cert-verify=true
-⚡️🇻🇳🫠 = VLESS,prm1.loadingip.com,80,"12cb756a-de43-4bb9-b182-21fa63ed35f8",transport=ws,path=/prm,host=neko.tiktok.com,udp=true,over-tls=false
-⚡️🇻🇳🫠 = VLESS,chau2620.dynamic-dns.net,80,"845021b4-6960-453e-8945-4a9218ef60b6",transport=http,host=neko.tiktok.com,udp=true,over-tls=false
+TLS 🇻🇳VĩnhViễn = VLESS,nothing.zakshin.io.vn,443,"bd2ec2f1-75fe-4dd0-851d-8bd954478727",transport=tcp,udp=true,over-tls=true,sni=neko.tiktok.com,skip-cert-verify=true
+TLS 🇻🇳VĩnhViễn = VLESS,4gviettel.duckdns.org,443,"ede2f91b-83b1-47e6-99aa-1b231ae7e392",transport=tcp,udp=true,over-tls=false
+TLS 🇻🇳VĩnhViễn = Trojan,utm.loadingip.com,443,"12cb756a-de43-4bb9-b182-21fa63ed35f8",transport=tcp,sni=neko.tiktok.com,skip-cert-verify=true,path=/,udp=true
+TLS 🇻🇳VĩnhViễn = VLESS,nothing.zakshin.io.vn,443,"852989de-5bbe-48b5-9e1d-7e6490661221",transport=tcp,udp=true,over-tls=true,sni=neko.tiktok.com,skip-cert-verify=true
+⚡️🇻🇳 = VLESS,prm1.loadingip.com,80,"12cb756a-de43-4bb9-b182-21fa63ed35f8",transport=ws,path=/prm,host=neko.tiktok.com,udp=true,over-tls=false
+⚡️🇻🇳 = VLESS,chau2620.dynamic-dns.net,80,"845021b4-6960-453e-8945-4a9218ef60b6",transport=http,host=neko.tiktok.com,udp=true,over-tls=false
 🚀443🇻🇳 = VLESS,nothing.zakshin.io.vn,443,"bd2ec2f1-75fe-4dd0-851d-8bd954478727",transport=tcp,udp=true,over-tls=true,sni=m.tiktok.com,skip-cert-verify=true
 🚀80🇻🇳 = Vmess,nothing.zakshin.io.vn,80,chacha20-ietf-poly1305,"9455fac4-6a37-4ac3-bd44-a17d02c29f0f",transport=ws,alterId=0,path=/,host=m.tiktok.com,udp=true,over-tls=false
 🚀443🇻🇳 = VLESS,4gviettel.duckdns.org,443,"ede2f91b-83b1-47e6-99aa-1b231ae7e392",transport=tcp,udp=true,over-tls=false
