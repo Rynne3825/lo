@@ -11,3 +11,24 @@ vmess://YXV0bzo4MjY2NzY2OC00YmZkLTQ5MDYtYWIzMS1jMjc0NWQwZGU3OGVAdjQwLmVtb3Zwbi5i
 vmess://YXV0bzo4MjY2NzY2OC00YmZkLTQ5MDYtYWIzMS1jMjc0NWQwZGU3OGVAdjM5LmVtb3Zwbi5idXp6OjQzNTY?remarks=%5Bss%5DRynne%20%F0%9F%AB%A0%20Singapore%203%20%F0%9F%87%B8%F0%9F%87%AC&obfsParam=v39.emovpn.buzz&path=/&obfs=websocket&alterId=0
 vmess://YXV0bzo4MjY2NzY2OC00YmZkLTQ5MDYtYWIzMS1jMjc0NWQwZGU3OGVAdjQwLmVtb3Zwbi5idXp6OjgyODc?remarks=%5Bss%5DRynne%20%F0%9F%AB%A0%20Singapore%204%20%F0%9F%87%B8%F0%9F%87%AC&obfsParam=v40.emovpn.buzz&path=/&obfs=websocket&alterId=0
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTc5Ljc2LjE3Mzo0NDM#%5Bss%5DRynne%20%F0%9F%AB%A0%20Singapore%205%20%F0%9F%87%B8%F0%9F%87%AC
+[ss]Rynne 🫠 Ba Lan 1 🇵🇱-7002+|+107.3ms = Shadowsocks,51.77.53.200,7002,aes-256-gcm,"RexnBgU7EV5ADxG",fast-open=false,udp=true
+
+[ss]Rynne 🫠 Ba Lan 2 🇵🇱-5004+|+107.3ms = Shadowsocks,51.77.53.200,5004,aes-256-gcm,"RexnBgU7EV5ADxG",fast-open=false,udp=true
+
+[ss]Rynne 🫠 Ba Lan 3 🇵🇱-8119+|+107.22ms = Shadowsocks,51.77.53.200,8119,aes-256-gcm,"cdBIDV42DCwnfIN",fast-open=false,udp=true
+
+[ss]Rynne 🫠 Ba Lan 4 🇵🇱-8000+|+107.31ms = Shadowsocks,51.77.53.200,8000,aes-256-gcm,"KixLvKzwjekG00rm",fast-open=false,udp=true
+
+[ss]Rynne 🫠 Ba Lan 5 🇵🇱-7307+|+107.24ms = Shadowsocks,51.77.53.200,7307,aes-256-gcm,"FoOiGlkAA9yPEGP",fast-open=false,udp=true
+
+[ss]Rynne 🫠 Ba Lan 6 🇵🇱-8119+|+107.5ms = Shadowsocks,51.77.53.200,8119,aes-256-gcm,"cdBIDV42DCwnfIN",fast-open=false,udp=true
+
+[ss]Rynne 🫠 Ba Lan 7 🇵🇱-2375+|+107.42ms = Shadowsocks,51.77.53.200,2375,aes-256-gcm,"faBAoD54k87UJG7",fast-open=false,udp=true
+
+[ss]Rynne 🫠 Ba Lan 8 🇵🇱-8119+|+107.46ms = Shadowsocks,51.77.53.200,8119,aes-256-gcm,"cdBIDV42DCwnfIN",fast-open=false,udp=true
+
+[ss]Rynne 🫠 Ba Lan 9 🇵🇱-6379+|+106.78ms = Shadowsocks,51.77.53.200,6379,aes-256-gcm,"zDNVedRFPQexG9v",fast-open=false,udp=true
+
+[ss]Rynne 🫠 Ba Lan 10 🇵🇱-7306+|+107.24ms = Shadowsocks,51.77.53.200,7306,aes-256-gcm,"FoOiGlkAA9yPEGP",fast-open=false,udp=true
+
+[ss]Rynne 🫠 Ba Lan 11 🇵🇱-8118+|+107.07ms = Shadowsocks,51.77.53.200,8118,aes-256-gcm,"cdBIDV42DCwnfIN",fast-open=false,udp=true
