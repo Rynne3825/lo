@@ -1,0 +1,36 @@
+proxies:
+  - {"name":"🇸🇬🫠•~•(BEST1)","server":"relieved-raccoon.shiner427.skin","port":443,"password":"65086520307764900","sni":"relieved-raccoon.shiner427.skin","type":"trojan","udp":true,"skip-cert-verify":true}
+  - {"name":"🇫🇷🫠@_@(BEST2)","server":"62.210.88.22","port":443,"cipher":"chacha20-ietf-poly1305","password":"R0flZcpSJ1GjvH3mzap1qg","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"🇫🇷🫠^~^(BEST3)","server":"62.210.88.22","port":443,"cipher":"chacha20-ietf-poly1305","password":"pfA8HBWWRvSjy5MXkK2ooQ","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"🇩🇪🫠 Germany","server":"51.195.119.47","port":1080,"cipher":"chacha20-ietf-poly1305","password":"qXvO7zYU7KeaB0Md7DQLow","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-7002","server":"51.77.53.200","port":7002,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-5004","server":"51.77.53.200","port":5004,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-8119","server":"51.77.53.200","port":8119,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-8000","server":"51.77.53.200","port":8000,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-7307","server":"51.77.53.200","port":7307,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2375","server":"51.77.53.200","port":2375,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-6379","server":"51.77.53.200","port":6379,"cipher":"aes-256-gcm","password":"zDNVedRFPQexG9v","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-7306","server":"51.77.53.200","port":7306,"cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-8118","server":"51.77.53.200","port":8118,"cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2555","server":"51.77.53.200","port":3389,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2587","server":"51.77.53.200","port":9102,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2550","server":"51.77.53.200","port":8091,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2591","server":"51.77.53.200","port":8888,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2553","server":"51.77.53.200","port":5500,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-5879","server":"51.77.53.200","port":7001,"cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2589","server":"51.77.53.200","port":8009,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-5569","server":"51.77.53.200","port":2376,"cipher":"aes-256-gcm","password":"faBAoD54k87UJG7","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2590","server":"51.77.53.200","port":5003,"cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-5875","server":"51.77.53.200","port":8090,"cipher":"aes-256-gcm","password":"PCnnH6SQSnfoS27","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2559","server":"51.77.53.200","port":8881,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2552","server":"51.77.53.200","port":4444,"cipher":"aes-256-gcm","password":"pKEW8JPByTVTLtM","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-5650","server":"51.77.53.200","port":8080,"cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2593","server":"51.77.53.200","port":5000,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2554","server":"51.77.53.200","port":3306,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2562","server":"51.77.53.200","port":6679,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2560","server":"51.77.53.200","port":8882,"cipher":"aes-256-gcm","password":"kDWvXYZoTBcGkC4","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2588","server":"51.77.53.200","port":8008,"cipher":"aes-256-gcm","password":"XKFKl2rULjIp74","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2592","server":"51.77.53.200","port":5001,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-5885","server":"51.77.53.200","port":5601,"cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2561","server":"51.77.53.200","port":6697,"cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS","type":"ss","udp":true,"skip-cert-verify":true}
+  - {"name":"Rynne 🫠 Ba Lan🇵🇱-2556","server":"51.77.53.200","port":9101,"cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY","type":"ss","udp":true,"skip-cert-verify":true}
